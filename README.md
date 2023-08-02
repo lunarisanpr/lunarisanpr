@@ -1,4 +1,8 @@
-### Hi there 👋
+### hi, i'm lunasa2307
+(you can call me lunasa)
+(real)
+
+### working on good things to come
 
 <!--
 **lunarisanpr/lunarisanpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
