@@ -2,7 +2,7 @@
 (you can call me lunasa)
 (real)
 
-![lunasa2307's Contributions](https://github.pumbas.net)
+![lunarisanpr's Contributions](https://github.pumbas.net/api/contributions/lunarisanpr)
 
 ### working on good things to come
 
